@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=
+OutputPath=Outputs
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -57,7 +57,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YNDJVGDW
 
 [Document2]
-DocumentPath=ProjectTemplate.OutJob
+DocumentPath=SlimBoxPCB.CSPcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -71,10 +71,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MKTRWDAR
 
 [Document3]
-DocumentPath=SlimBoxPCB.CSPcbDoc
+DocumentPath=SlimBoxPCB.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,16 +134,18 @@ ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
 GenerateBOM=0
-OutputJobsCount=3
+OutputJobsCount=4
 DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=Timer_Clock.OutJob
 DocumentReferenceClass2=DocumentReference
 OutputJobFileName2=Timer_Clock_BOT.OutJob
 DocumentReferenceClass3=DocumentReference
 OutputJobFileName3=ProjectTemplate.OutJob
+DocumentReferenceClass4=DocumentReference
+OutputJobFileName4=SlimBoxPCB.OutJob
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Outputs
 
 [OutputGroup1]
 Name=Netlist Outputs
