@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=Outputs
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -99,36 +99,36 @@ VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Default Configuration\Outputs\BOM\BOM_PartType-SlimBoxPCB.xls
+DocumentPath=Default Configuration\Outputs\BOM\BOM_PartType-SlimBoxPCB.csv
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectName
-Value=Project TEMPLATE
-
-[Parameter2]
-Name=Revision
-Value=V1.0
-
-[Parameter3]
-Name=Signature1
-Value=Marius Tetard
-
-[Parameter4]
-Name=Signature2
-Value=2023-01 / Freiburg
-
-[Parameter5]
-Name=Signature3
+Name=Signature5
 Value=
 
-[Parameter6]
+[Parameter2]
 Name=Signature4
 Value=
 
-[Parameter7]
-Name=Signature5
+[Parameter3]
+Name=Signature3
 Value=
+
+[Parameter4]
+Name=Signature2
+Value=2023-09 / Freiburg
+
+[Parameter5]
+Name=Signature1
+Value=M.Tetard / P. Tran
+
+[Parameter6]
+Name=Revision
+Value=V1.0
+
+[Parameter7]
+Name=ProjectName
+Value=SlimBox
 
 [Configuration1]
 Name=Default Configuration
@@ -149,7 +149,7 @@ DocumentReferenceClass4=DocumentReference
 OutputJobFileName4=SlimBoxPCB.OutJob
 
 [Generic_EDE]
-OutputDir=Outputs
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
