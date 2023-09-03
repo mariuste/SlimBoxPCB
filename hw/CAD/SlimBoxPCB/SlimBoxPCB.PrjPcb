@@ -98,6 +98,10 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Default Configuration\Outputs\BOM\BOM_PartType-SlimBoxPCB.xls
+DItemRevisionGUID=
+
 [Parameter1]
 Name=ProjectName
 Value=Project TEMPLATE
