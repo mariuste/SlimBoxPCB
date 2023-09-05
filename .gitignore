@@ -4,3 +4,4 @@ hw/CAD/SlimBoxPCB/Logs/*
 hw/CAD/SlimBoxPCB/Default Configuration/Outputs/Status Report.Txt
 *.OutputStatus
 .DS_Store
+hw/CAD/SlimBoxPCB/Default Configuration/Outputs/Gerber.zip
