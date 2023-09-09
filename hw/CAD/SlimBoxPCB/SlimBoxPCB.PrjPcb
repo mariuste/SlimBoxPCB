@@ -103,66 +103,82 @@ DocumentPath=Default Configuration\Outputs\BOM\BOM_PartType-SlimBoxPCB.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.EXTREP
+DocumentPath=Default Configuration\Outputs\NC Drill\SlimBoxPCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.G1
+DocumentPath=Default Configuration\Outputs\NC Drill\SlimBoxPCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.G2
+DocumentPath=Default Configuration\Outputs\NC Drill\SlimBoxPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GBL
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GBO
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GBP
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GBS
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GKO
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GTL
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GTO
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GTP
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GTS
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.Outline
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.REP
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.RUL
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
+DocumentPath=Default Configuration\Outputs\NC Drill\SlimBoxPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.Outline
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument21]
 DocumentPath=Default Configuration\Outputs\ExportSTEP\SlimBoxPCB.step
 DItemRevisionGUID=
 
