@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=Outputs
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -103,112 +103,108 @@ DocumentPath=Default Configuration\Outputs\BOM\BOM_PartType-SlimBoxPCB.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Default Configuration\Outputs\NC Drill\SlimBoxPCB-RoundHoles.TXT
+DocumentPath=Outputs\Design Rule Check - SlimBoxPCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Default Configuration\Outputs\NC Drill\SlimBoxPCB-SlotHoles.TXT
+DocumentPath=Default Configuration\Outputs\NC Drill\SlimBoxPCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Default Configuration\Outputs\NC Drill\SlimBoxPCB.DRR
+DocumentPath=Default Configuration\Outputs\NC Drill\SlimBoxPCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.EXTREP
+DocumentPath=Default Configuration\Outputs\NC Drill\SlimBoxPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.G1
+DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.G2
-DItemRevisionGUID=
-
-[GeneratedDocument8]
 DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Default Configuration\Outputs\NC Drill\SlimBoxPCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.Outline
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Default Configuration\Outputs\Gerber\SlimBoxPCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Default Configuration\Outputs\ExportSTEP\SlimBoxPCB.step
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectName
-Value=SlimBox
-
-[Parameter2]
-Name=Revision
-Value=V1.0
-
-[Parameter3]
-Name=Signature1
-Value=M.Tetard / P. Tran
-
-[Parameter4]
-Name=Signature2
-Value=2023-09 / Freiburg
-
-[Parameter5]
-Name=Signature3
+Name=Signature5
 Value=
 
-[Parameter6]
+[Parameter2]
 Name=Signature4
 Value=
 
-[Parameter7]
-Name=Signature5
+[Parameter3]
+Name=Signature3
 Value=
+
+[Parameter4]
+Name=Signature2
+Value=2023-10 / Freiburg
+
+[Parameter5]
+Name=Signature1
+Value=M.Tetard / P. Tran
+
+[Parameter6]
+Name=Revision
+Value=V1.1
+
+[Parameter7]
+Name=ProjectName
+Value=SlimBox
 
 [Configuration1]
 Name=Default Configuration
@@ -229,7 +225,7 @@ DocumentReferenceClass4=DocumentReference
 OutputJobFileName4=SlimBoxPCB.OutJob
 
 [Generic_EDE]
-OutputDir=Outputs
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
