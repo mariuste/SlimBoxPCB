@@ -2,6 +2,11 @@ hw/CAD/SlimBoxPCB/History/*
 hw/CAD/SlimBoxPCB/__Previews/*
 hw/CAD/SlimBoxPCB/Logs/*
 hw/CAD/SlimBoxPCB/Default Configuration/Outputs/Status Report.Txt
+<<<<<<< Updated upstream
 *.OutputStatus
 .DS_Store
 hw/CAD/SlimBoxPCB/Default Configuration/Outputs/Gerber.zip
+=======
+hw/CAD/SlimBoxPCB/Default Configuration/Outputs/BOM/BOM_PartType.OutputStatus
+.DS_Store
+>>>>>>> Stashed changes
