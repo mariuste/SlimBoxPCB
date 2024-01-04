@@ -1,9 +1,9 @@
 Quantity,Designator,Type,Comment,Description,Manufacturer,Manufacturer Part Number,LibRef,Supplier 1,Supplier Part Number 1
 
-"18","C100, C101, C102, C103, C104, C105, C106, C107, C108, C109, C110, C111, C112, C113, C114, C115, C116, C117","Capacitor","C 100nF 0402 10V","CAP CER 0.1UF 10V X5R 0402","Samsung Electro-Mechanics","CL05A104MP5NNNC","CAP_100nF_10V_0402","Digi-Key","1276-1443-1-ND"
+"1","C103","Capacitor","C 100nF 0402 10V","CAP CER 0.1UF 10V X5R 0402","Samsung Electro-Mechanics","CL05A104MP5NNNC","CAP_100nF_10V_0402","Digi-Key","1276-1443-1-ND"
 "17","D100, D101, D102, D103, D104, D105, D106, D107, D108, D109, D110, D111, D112, D113, D114, D115, D116","other, switch","LED RGB","LED for SW_CPG1353","Opsco","SK6812Mini-E","SW_CPG1353_LED","",""
 "1","IC100","other, module","RP2040-Zero","Waveshare RP2040-Zero Module","Waveshare","RP2040-Zero","IC_RP2040-Zero","",""
 "1","IC101","IC","74HCT125S14-13","IC BUFFER NON-INVERT 5.5V 14SO","Diodes Incorporated","74HCT125S14-13","IC_Logic_1BUF_4CH","Digi-Key","74HCT125S14-13-ND"
 "2","R116, R119","Resistor","R 180R 0603","RES 180 OHM 1% 1/10W 0603","Stackpole Electronics Inc","RMCF0603FT180R","R_180R_0603","Digi-Key","RMCF0603FT180RCT-ND"
-"17","SW_B1, SW_B2, SW_B3, SW_B4, SW_Down, SW_Home, SW_L1, SW_L2, SW_L3, SW_Left, SW_R1, SW_R2, SW_R3, SW_Right, SW_S1, SW_S2, SW_Up","other, switch","CPG1353","Kailh Choc low profile switches V2 (CPG1353) /w Hotswap, LED","Kailh","CPG1353","SW_CPG1353_HS_LED","",""
+"18","SW_A2, SW_B1, SW_B2, SW_B3, SW_B4, SW_Down, SW_Home, SW_L1, SW_L2, SW_L3, SW_Left, SW_R1, SW_R2, SW_R3, SW_Right, SW_S1, SW_S2, SW_Up","other, switch","CPG1353","Kailh Choc low profile switches V2 (CPG1353) /w Hotswap, LED","Kailh","CPG1353","SW_CPG1353_HS_LED","",""
 "17","X100, X101, X102, X103, X104, X105, X106, X107, X108, X109, X110, X111, X112, X113, X114, X115, X116","other","Socket","Socket for SW_CPG1353","Kailh","PG1350","SW_CPG1353_socket","",""
