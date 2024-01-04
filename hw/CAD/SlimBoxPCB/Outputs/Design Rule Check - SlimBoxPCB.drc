@@ -1,0 +1,267 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\mariu\Documents\GitHub\SlimBoxPCB\hw\CAD\SlimBoxPCB\SlimBoxPCB.CSPcbDoc
+Date     : 04.01.2024
+Time     : 16:07:21
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad FIDJ100-1(2.5mm,5mm)  Multi-Layer
+   Pad FIDJ101-1(207.5mm,92.5mm)  Multi-Layer
+
+Processing Rule : Unpoured Polygon (Allow unpoured: False)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.153mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.05mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (Disabled)(All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad SW_A2-(9.5mm,39.95mm)  Multi-Layer and 
+                     Pad SW_A2-(8.65mm,40.8mm)  Multi-Layer
+   Violation between Pad SW_A2-(10.35mm,40.8mm)  Multi-Layer and 
+                     Pad SW_A2-(8.65mm,40.8mm)  Multi-Layer
+   Violation between Pad SW_A2-(9.5mm,41.65mm)  Multi-Layer and 
+                     Pad SW_A2-(8.65mm,40.8mm)  Multi-Layer
+   Violation between Pad SW_A2-(9.5mm,39.95mm)  Multi-Layer and 
+                     Pad SW_A2-(10.35mm,40.8mm)  Multi-Layer
+   Violation between Pad SW_A2-(9.5mm,41.65mm)  Multi-Layer and 
+                     Pad SW_A2-(10.35mm,40.8mm)  Multi-Layer
+   Violation between Pad SW_A2-(9.5mm,39.95mm)  Multi-Layer and 
+                     Pad SW_A2-(9.5mm,41.65mm)  Multi-Layer
+   Violation between Pad SW_S2-(15mm,91.15mm)  Multi-Layer and 
+                     Pad SW_S2-(14.15mm,90.3mm)  Multi-Layer
+   Violation between Pad SW_S2-(15mm,89.45mm)  Multi-Layer and 
+                     Pad SW_S2-(14.15mm,90.3mm)  Multi-Layer
+   Violation between Pad SW_S2-(15.85mm,90.3mm)  Multi-Layer and 
+                     Pad SW_S2-(14.15mm,90.3mm)  Multi-Layer
+   Violation between Pad SW_S2-(15mm,91.15mm)  Multi-Layer and 
+                     Pad SW_S2-(15.85mm,90.3mm)  Multi-Layer
+   Violation between Pad SW_S2-(15mm,89.45mm)  Multi-Layer and 
+                     Pad SW_S2-(15.85mm,90.3mm)  Multi-Layer
+   Violation between Pad SW_S2-(15mm,89.45mm)  Multi-Layer and 
+                     Pad SW_S2-(15mm,91.15mm)  Multi-Layer
+   Violation between Pad SW_B1-(123.5mm,37.26mm)  Multi-Layer and 
+                     Pad SW_B1-(122.65mm,38.11mm)  Multi-Layer
+   Violation between Pad SW_B1-(123.5mm,38.96mm)  Multi-Layer and 
+                     Pad SW_B1-(122.65mm,38.11mm)  Multi-Layer
+   Violation between Pad SW_B1-(124.35mm,38.11mm)  Multi-Layer and 
+                     Pad SW_B1-(122.65mm,38.11mm)  Multi-Layer
+   Violation between Pad SW_B1-(123.5mm,37.26mm)  Multi-Layer and 
+                     Pad SW_B1-(124.35mm,38.11mm)  Multi-Layer
+   Violation between Pad SW_B1-(123.5mm,38.96mm)  Multi-Layer and 
+                     Pad SW_B1-(124.35mm,38.11mm)  Multi-Layer
+   Violation between Pad SW_B1-(123.5mm,37.26mm)  Multi-Layer and 
+                     Pad SW_B1-(123.5mm,38.96mm)  Multi-Layer
+   Violation between Pad SW_B2-(149.35mm,47.34mm)  Multi-Layer and 
+                     Pad SW_B2-(148.5mm,46.49mm)  Multi-Layer
+   Violation between Pad SW_B2-(147.65mm,47.34mm)  Multi-Layer and 
+                     Pad SW_B2-(148.5mm,46.49mm)  Multi-Layer
+   Violation between Pad SW_B2-(148.5mm,48.19mm)  Multi-Layer and 
+                     Pad SW_B2-(148.5mm,46.49mm)  Multi-Layer
+   Violation between Pad SW_B2-(149.35mm,47.34mm)  Multi-Layer and 
+                     Pad SW_B2-(148.5mm,48.19mm)  Multi-Layer
+   Violation between Pad SW_B2-(147.65mm,47.34mm)  Multi-Layer and 
+                     Pad SW_B2-(148.5mm,48.19mm)  Multi-Layer
+   Violation between Pad SW_B2-(147.65mm,47.34mm)  Multi-Layer and 
+                     Pad SW_B2-(149.35mm,47.34mm)  Multi-Layer
+   Violation between Pad SW_B3-(119.5mm,62.95mm)  Multi-Layer and 
+                     Pad SW_B3-(118.65mm,63.8mm)  Multi-Layer
+   Violation between Pad SW_B3-(119.5mm,64.65mm)  Multi-Layer and 
+                     Pad SW_B3-(118.65mm,63.8mm)  Multi-Layer
+   Violation between Pad SW_B3-(120.35mm,63.8mm)  Multi-Layer and 
+                     Pad SW_B3-(118.65mm,63.8mm)  Multi-Layer
+   Violation between Pad SW_B3-(119.5mm,62.95mm)  Multi-Layer and 
+                     Pad SW_B3-(120.35mm,63.8mm)  Multi-Layer
+   Violation between Pad SW_B3-(119.5mm,64.65mm)  Multi-Layer and 
+                     Pad SW_B3-(120.35mm,63.8mm)  Multi-Layer
+   Violation between Pad SW_B3-(119.5mm,62.95mm)  Multi-Layer and 
+                     Pad SW_B3-(119.5mm,64.65mm)  Multi-Layer
+   Violation between Pad SW_B4-(144.65mm,73.17mm)  Multi-Layer and 
+                     Pad SW_B4-(145.5mm,72.32mm)  Multi-Layer
+   Violation between Pad SW_B4-(146.35mm,73.17mm)  Multi-Layer and 
+                     Pad SW_B4-(145.5mm,72.32mm)  Multi-Layer
+   Violation between Pad SW_B4-(145.5mm,74.02mm)  Multi-Layer and 
+                     Pad SW_B4-(145.5mm,72.32mm)  Multi-Layer
+   Violation between Pad SW_B4-(144.65mm,73.17mm)  Multi-Layer and 
+                     Pad SW_B4-(145.5mm,74.02mm)  Multi-Layer
+   Violation between Pad SW_B4-(146.35mm,73.17mm)  Multi-Layer and 
+                     Pad SW_B4-(145.5mm,74.02mm)  Multi-Layer
+   Violation between Pad SW_B4-(144.65mm,73.17mm)  Multi-Layer and 
+                     Pad SW_B4-(146.35mm,73.17mm)  Multi-Layer
+   Violation between Pad SW_Down-(48.5mm,62.45mm)  Multi-Layer and 
+                     Pad SW_Down-(47.65mm,63.3mm)  Multi-Layer
+   Violation between Pad SW_Down-(48.5mm,64.15mm)  Multi-Layer and 
+                     Pad SW_Down-(47.65mm,63.3mm)  Multi-Layer
+   Violation between Pad SW_Down-(49.35mm,63.3mm)  Multi-Layer and 
+                     Pad SW_Down-(47.65mm,63.3mm)  Multi-Layer
+   Violation between Pad SW_Down-(48.5mm,62.45mm)  Multi-Layer and 
+                     Pad SW_Down-(49.35mm,63.3mm)  Multi-Layer
+   Violation between Pad SW_Down-(48.5mm,64.15mm)  Multi-Layer and 
+                     Pad SW_Down-(49.35mm,63.3mm)  Multi-Layer
+   Violation between Pad SW_Down-(48.5mm,62.45mm)  Multi-Layer and 
+                     Pad SW_Down-(48.5mm,64.15mm)  Multi-Layer
+   Violation between Pad SW_Home-(52.8mm,91.15mm)  Multi-Layer and 
+                     Pad SW_Home-(52.8mm,89.45mm)  Multi-Layer
+   Violation between Pad SW_Home-(51.95mm,90.3mm)  Multi-Layer and 
+                     Pad SW_Home-(52.8mm,89.45mm)  Multi-Layer
+   Violation between Pad SW_Home-(53.65mm,90.3mm)  Multi-Layer and 
+                     Pad SW_Home-(52.8mm,89.45mm)  Multi-Layer
+   Violation between Pad SW_Home-(51.95mm,90.3mm)  Multi-Layer and 
+                     Pad SW_Home-(52.8mm,91.15mm)  Multi-Layer
+   Violation between Pad SW_Home-(53.65mm,90.3mm)  Multi-Layer and 
+                     Pad SW_Home-(52.8mm,91.15mm)  Multi-Layer
+   Violation between Pad SW_Home-(51.95mm,90.3mm)  Multi-Layer and 
+                     Pad SW_Home-(53.65mm,90.3mm)  Multi-Layer
+   Violation between Pad SW_L1-(173.85mm,73.3mm)  Multi-Layer and 
+                     Pad SW_L1-(172.15mm,73.3mm)  Multi-Layer
+   Violation between Pad SW_L1-(173mm,72.45mm)  Multi-Layer and 
+                     Pad SW_L1-(172.15mm,73.3mm)  Multi-Layer
+   Violation between Pad SW_L1-(173mm,74.15mm)  Multi-Layer and 
+                     Pad SW_L1-(172.15mm,73.3mm)  Multi-Layer
+   Violation between Pad SW_L1-(173mm,72.45mm)  Multi-Layer and 
+                     Pad SW_L1-(173.85mm,73.3mm)  Multi-Layer
+   Violation between Pad SW_L1-(173mm,74.15mm)  Multi-Layer and 
+                     Pad SW_L1-(173.85mm,73.3mm)  Multi-Layer
+   Violation between Pad SW_L1-(173mm,72.45mm)  Multi-Layer and 
+                     Pad SW_L1-(173mm,74.15mm)  Multi-Layer
+   Violation between Pad SW_L2-(173.65mm,47.34mm)  Multi-Layer and 
+                     Pad SW_L2-(174.5mm,46.49mm)  Multi-Layer
+   Violation between Pad SW_L2-(175.35mm,47.34mm)  Multi-Layer and 
+                     Pad SW_L2-(174.5mm,46.49mm)  Multi-Layer
+   Violation between Pad SW_L2-(174.5mm,48.19mm)  Multi-Layer and 
+                     Pad SW_L2-(174.5mm,46.49mm)  Multi-Layer
+   Violation between Pad SW_L2-(173.65mm,47.34mm)  Multi-Layer and 
+                     Pad SW_L2-(174.5mm,48.19mm)  Multi-Layer
+   Violation between Pad SW_L2-(175.35mm,47.34mm)  Multi-Layer and 
+                     Pad SW_L2-(174.5mm,48.19mm)  Multi-Layer
+   Violation between Pad SW_L2-(173.65mm,47.34mm)  Multi-Layer and 
+                     Pad SW_L2-(175.35mm,47.34mm)  Multi-Layer
+   Violation between Pad SW_L3-(98.5mm,46.95mm)  Multi-Layer and 
+                     Pad SW_L3-(97.65mm,47.8mm)  Multi-Layer
+   Violation between Pad SW_L3-(98.5mm,48.65mm)  Multi-Layer and 
+                     Pad SW_L3-(97.65mm,47.8mm)  Multi-Layer
+   Violation between Pad SW_L3-(99.35mm,47.8mm)  Multi-Layer and 
+                     Pad SW_L3-(97.65mm,47.8mm)  Multi-Layer
+   Violation between Pad SW_L3-(98.5mm,46.95mm)  Multi-Layer and 
+                     Pad SW_L3-(99.35mm,47.8mm)  Multi-Layer
+   Violation between Pad SW_L3-(98.5mm,48.65mm)  Multi-Layer and 
+                     Pad SW_L3-(99.35mm,47.8mm)  Multi-Layer
+   Violation between Pad SW_L3-(98.5mm,46.95mm)  Multi-Layer and 
+                     Pad SW_L3-(98.5mm,48.65mm)  Multi-Layer
+   Violation between Pad SW_Left-(28.65mm,63.3mm)  Multi-Layer and 
+                     Pad SW_Left-(29.5mm,62.45mm)  Multi-Layer
+   Violation between Pad SW_Left-(30.35mm,63.3mm)  Multi-Layer and 
+                     Pad SW_Left-(29.5mm,62.45mm)  Multi-Layer
+   Violation between Pad SW_Left-(29.5mm,64.15mm)  Multi-Layer and 
+                     Pad SW_Left-(29.5mm,62.45mm)  Multi-Layer
+   Violation between Pad SW_Left-(28.65mm,63.3mm)  Multi-Layer and 
+                     Pad SW_Left-(29.5mm,64.15mm)  Multi-Layer
+   Violation between Pad SW_Left-(30.35mm,63.3mm)  Multi-Layer and 
+                     Pad SW_Left-(29.5mm,64.15mm)  Multi-Layer
+   Violation between Pad SW_Left-(28.65mm,63.3mm)  Multi-Layer and 
+                     Pad SW_Left-(30.35mm,63.3mm)  Multi-Layer
+   Violation between Pad SW_R1-(199.5mm,58.95mm)  Multi-Layer and 
+                     Pad SW_R1-(198.65mm,59.8mm)  Multi-Layer
+   Violation between Pad SW_R1-(199.5mm,60.65mm)  Multi-Layer and 
+                     Pad SW_R1-(198.65mm,59.8mm)  Multi-Layer
+   Violation between Pad SW_R1-(200.35mm,59.8mm)  Multi-Layer and 
+                     Pad SW_R1-(198.65mm,59.8mm)  Multi-Layer
+   Violation between Pad SW_R1-(199.5mm,58.95mm)  Multi-Layer and 
+                     Pad SW_R1-(200.35mm,59.8mm)  Multi-Layer
+   Violation between Pad SW_R1-(199.5mm,60.65mm)  Multi-Layer and 
+                     Pad SW_R1-(200.35mm,59.8mm)  Multi-Layer
+   Violation between Pad SW_R1-(199.5mm,58.95mm)  Multi-Layer and 
+                     Pad SW_R1-(199.5mm,60.65mm)  Multi-Layer
+   Violation between Pad SW_R2-(199.5mm,34.65mm)  Multi-Layer and 
+                     Pad SW_R2-(199.5mm,32.95mm)  Multi-Layer
+   Violation between Pad SW_R2-(198.65mm,33.8mm)  Multi-Layer and 
+                     Pad SW_R2-(199.5mm,32.95mm)  Multi-Layer
+   Violation between Pad SW_R2-(200.35mm,33.8mm)  Multi-Layer and 
+                     Pad SW_R2-(199.5mm,32.95mm)  Multi-Layer
+   Violation between Pad SW_R2-(198.65mm,33.8mm)  Multi-Layer and 
+                     Pad SW_R2-(199.5mm,34.65mm)  Multi-Layer
+   Violation between Pad SW_R2-(200.35mm,33.8mm)  Multi-Layer and 
+                     Pad SW_R2-(199.5mm,34.65mm)  Multi-Layer
+   Violation between Pad SW_R2-(198.65mm,33.8mm)  Multi-Layer and 
+                     Pad SW_R2-(200.35mm,33.8mm)  Multi-Layer
+   Violation between Pad SW_R3-(121.5mm,5.1mm)  Multi-Layer and 
+                     Pad SW_R3-(120.65mm,5.95mm)  Multi-Layer
+   Violation between Pad SW_R3-(121.5mm,6.8mm)  Multi-Layer and 
+                     Pad SW_R3-(120.65mm,5.95mm)  Multi-Layer
+   Violation between Pad SW_R3-(122.35mm,5.95mm)  Multi-Layer and 
+                     Pad SW_R3-(120.65mm,5.95mm)  Multi-Layer
+   Violation between Pad SW_R3-(121.5mm,5.1mm)  Multi-Layer and 
+                     Pad SW_R3-(122.35mm,5.95mm)  Multi-Layer
+   Violation between Pad SW_R3-(121.5mm,6.8mm)  Multi-Layer and 
+                     Pad SW_R3-(122.35mm,5.95mm)  Multi-Layer
+   Violation between Pad SW_R3-(121.5mm,5.1mm)  Multi-Layer and 
+                     Pad SW_R3-(121.5mm,6.8mm)  Multi-Layer
+   Violation between Pad SW_Right-(68.35mm,58.3mm)  Multi-Layer and 
+                     Pad SW_Right-(67.5mm,57.45mm)  Multi-Layer
+   Violation between Pad SW_Right-(67.5mm,59.15mm)  Multi-Layer and 
+                     Pad SW_Right-(67.5mm,57.45mm)  Multi-Layer
+   Violation between Pad SW_Right-(66.65mm,58.3mm)  Multi-Layer and 
+                     Pad SW_Right-(67.5mm,57.45mm)  Multi-Layer
+   Violation between Pad SW_Right-(68.35mm,58.3mm)  Multi-Layer and 
+                     Pad SW_Right-(67.5mm,59.15mm)  Multi-Layer
+   Violation between Pad SW_Right-(66.65mm,58.3mm)  Multi-Layer and 
+                     Pad SW_Right-(67.5mm,59.15mm)  Multi-Layer
+   Violation between Pad SW_Right-(66.65mm,58.3mm)  Multi-Layer and 
+                     Pad SW_Right-(68.35mm,58.3mm)  Multi-Layer
+   Violation between Pad SW_S1-(33.9mm,91.15mm)  Multi-Layer and 
+                     Pad SW_S1-(33.05mm,90.3mm)  Multi-Layer
+   Violation between Pad SW_S1-(33.9mm,89.45mm)  Multi-Layer and 
+                     Pad SW_S1-(33.05mm,90.3mm)  Multi-Layer
+   Violation between Pad SW_S1-(34.75mm,90.3mm)  Multi-Layer and 
+                     Pad SW_S1-(33.05mm,90.3mm)  Multi-Layer
+   Violation between Pad SW_S1-(33.9mm,91.15mm)  Multi-Layer and 
+                     Pad SW_S1-(34.75mm,90.3mm)  Multi-Layer
+   Violation between Pad SW_S1-(33.9mm,89.45mm)  Multi-Layer and 
+                     Pad SW_S1-(34.75mm,90.3mm)  Multi-Layer
+   Violation between Pad SW_S1-(33.9mm,89.45mm)  Multi-Layer and 
+                     Pad SW_S1-(33.9mm,91.15mm)  Multi-Layer
+   Violation between Pad SW_Up-(73mm,5.1mm)  Multi-Layer and 
+                     Pad SW_Up-(72.15mm,5.95mm)  Multi-Layer
+   Violation between Pad SW_Up-(73mm,6.8mm)  Multi-Layer and 
+                     Pad SW_Up-(72.15mm,5.95mm)  Multi-Layer
+   Violation between Pad SW_Up-(73.85mm,5.95mm)  Multi-Layer and 
+                     Pad SW_Up-(72.15mm,5.95mm)  Multi-Layer
+   Violation between Pad SW_Up-(73mm,5.1mm)  Multi-Layer and 
+                     Pad SW_Up-(73.85mm,5.95mm)  Multi-Layer
+   Violation between Pad SW_Up-(73mm,6.8mm)  Multi-Layer and 
+                     Pad SW_Up-(73.85mm,5.95mm)  Multi-Layer
+   Violation between Pad SW_Up-(73mm,5.1mm)  Multi-Layer and 
+                     Pad SW_Up-(73mm,6.8mm)  Multi-Layer
+Rule Violations :108
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.125mm) (Max=2mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 108
+Time Elapsed        : 00:00:01
