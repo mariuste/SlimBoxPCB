@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: SlimBoxPCB.CSPcbDoc   04.01.2024  16:12:36
+NCDrill File Report For: SlimBoxPCB.CSPcbDoc   05.01.2024  10:09:04
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,14 +8,14 @@ ASCII SlotHoles File : SlimBoxPCB-SlotHoles.TXT
 
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
-T1        15.7mil (0.39878mm)      Round          272              103.74 Inch (2634.97 mm)
+T1        15.7mil (0.39878mm)      Round          272              103.90 Inch (2639.14 mm)
 T2        63mil (1.6002mm)         Round          18               25.97 Inch (659.71 mm)
 T3        120.1mil (3.05054mm)     Round          36               23.05 Inch (585.47 mm)
 T4        74.8mil (1.89992mm)      Round          36        NPTH   27.49 Inch (698.21 mm)
-T5        78.7mil (1.99898mm)      Slot           72        NPTH   316.31 Inch (8034.29 mm)
+T5        78.7mil (1.99898mm)      Slot           72        NPTH   316.02 Inch (8027.02 mm)
 T6        198.8mil (5.04952mm)     Round          18        NPTH   21.23 Inch (539.12 mm)
 T7        236.2mil (5.99948mm)     Round          7         NPTH   20.35 Inch (517.00 mm)
 ---------------------------------------------------------------------------
-Totals                                            459              538.14 Inch (13668.76 mm)
+Totals                                            459              538.02 Inch (13665.67 mm)
 
 Total Processing Time (hh:mm:ss) : 00:00:00
